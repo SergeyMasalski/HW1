@@ -1,0 +1,37 @@
+h2{
+    font-weight: bolder;
+}
+.container,
+.navigation{
+    width: 45%;
+    background-color: rgba(203, 173, 173, 0.104);
+    margin: auto;
+    padding: 10px 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+.container a {
+    text-decoration: none;
+}
+p{
+    font-size: 12px;
+}
+.navig p {
+    font-size: 0.58em;
+}
+.navigation span{
+    background-color: rgb(144, 144, 199);
+    box-shadow: 2px 2px 2px darkblue;
+    margin: 20px;
+    padding: 7px;
+    border-radius: 7px;   
+}
+.navigation a{
+    color: rgb(199, 234, 234);
+    text-decoration: none;
+}
+.navigation{
+    background: none;
+    margin: 20px auto;
+    text-align: center;
+}

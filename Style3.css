@@ -1,0 +1,46 @@
+.container,
+.navigation{
+    width: 49%;
+    background-color: rgba(203, 173, 173, 0.104);
+    margin: auto;
+    padding: 10px 25px;
+    text-align: justify; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h3{
+    font-size: inherit;
+}
+h2{
+    font-size: 1.5em;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.formula{
+    padding: 3px 10px;
+    background-color: rgb(219, 142, 142);
+    text-align: center;
+    margin: 0 auto
+}
+.simvol {
+    color: rgb(109, 40, 40);
+    font-style: italic;
+    font-weight: bold;
+}
+.navigation span{
+    background-color: rgb(144, 144, 199);
+    box-shadow: 2px 2px 2px darkblue;
+    margin: 20px;
+    padding: 7px;
+    border-radius: 7px;   
+}
+.navigation a{
+    color: rgb(199, 234, 234);
+    text-decoration: none;
+}
+.navigation{
+    background: none;
+    margin: 20px auto;
+    text-align: center;
+}
